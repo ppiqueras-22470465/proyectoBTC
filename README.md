@@ -38,3 +38,5 @@ El código ejecuta de forma secuencial las siguientes fases de tratamiento:
 1. Asegúrate de tener instalado Python y la librería Pandas en tu entorno:
    ```bash
    pip install pandas
+   python BTCUSDT_15m_2026-09-28.csv
+   
